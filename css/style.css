@@ -553,13 +553,12 @@ input {
   gap: 24px;
 }
 .footer-form-label {
-  background-color: #2e2f42;
   display: flex;
   gap: 24px;
 }
 .footer-input {
   color: var(--bg-color);
-  background-color: transparent;
+  background: transparent;
   font-size: 12px;
   line-height: 1.5;
   letter-spacing: 0.04em;
