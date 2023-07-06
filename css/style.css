@@ -553,6 +553,7 @@ input {
   gap: 24px;
 }
 .footer-form-label {
+  background-color: #2e2f42;
   display: flex;
   gap: 24px;
 }
