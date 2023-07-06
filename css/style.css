@@ -548,7 +548,10 @@ input {
 .footer-form {
   margin-left: 80px;
 }
-
+.form-input-btn {
+  display: flex;
+  gap: 24px;
+}
 .footer-form-label {
   display: flex;
   gap: 24px;
